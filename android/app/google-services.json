@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "720448144881",
+    "project_id": "madrasa-e-mustafa",
+    "storage_bucket": "madrasa-e-mustafa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720448144881:android:f4491f7653af196760f050",
+        "android_client_info": {
+          "package_name": "com.heavenonthisearth.gulaaman_e_mustafa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGtbalAf_0bB9FuCEWINSUfR8nh2yMRr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720448144881:android:560a91e0df33419a60f050",
+        "android_client_info": {
+          "package_name": "com.starwish.hyrockers_gaming"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGtbalAf_0bB9FuCEWINSUfR8nh2yMRr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
